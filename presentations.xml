@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WebComponents.org]]></title>
+        <description><![CDATA[A place to discuss and evolve Web Component best-practices]]></description>
+        <link>http://webcomponents.org</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 22 May 2015 14:40:17 GMT</lastBuildDate>
+        <atom:link href="http://webcomponents.org/presentations.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 22 May 2015 14:38:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Why you should be using Web Components now. And how.]]></title>
+            <description><![CDATA[<p>In this session, Phil will explain what Web Components are, the state of native support in web browsers, what your options are for building componentised web apps right now using AngularJS, Ember, Knockout or React, and why Web Components probably are the future of web development.</p>
+<!-- Excerpt -->
+<p>He will also cover the benefits of a component-based architecture and how it helps when building JavaScript apps, as well as how components can communicate in a loosely coupled way, and why.</p>
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="//player.vimeo.com/video/126282333?byline=0&amp;portrait=0&amp;color=ff9933" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<p><em>Tip: click on the slides to focus and use your keyboard arrows to navigate.</em></p>
+<div class="iframe-wrap">
+    <iframe src="http://leggetter.github.io/web-components-now/devweek-2015"></iframe>
+</div>]]></description>
+            <link>http://webcomponents.org/presentations/why-you-should-be-using-web-components-and-how-at-devweek</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/why-you-should-be-using-web-components-and-how-at-devweek</guid>
+            <pubDate>Fri, 01 May 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are Custom Elements?]]></title>
+            <description><![CDATA[<p>This talk is about understanding Custom Elements and how they fit in to application development today. Andrea goes
+through a brief overview of the Web Component Specs, the support currently, and the libraries available to developers
+to use with Web Components.</p>
+<!-- Excerpt -->
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="https://www.youtube.com/embed/mT2wwXEVu94" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<p><a href="https://github.com/WebReflection/talks/blob/master/Frontend.fi/WhatAreCustomElements.pdf">
+    <img src="../../img/stories/what-are-custom-elements-cover.jpg" alt="Presentation Cover">
+</a></p>
+]]></description>
+            <link>http://webcomponents.org/presentations/what-are-custom-elements</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/what-are-custom-elements</guid>
+            <pubDate>Thu, 26 Mar 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GIFs vs Web Components]]></title>
+            <description><![CDATA[<p>This talk is about the reality of component-based web development, told through the frivolous pursuit of a more awesome IMG tag for animated GIFs. It’s a not-so-serious window into a terribly important debate about better encapsulation, reuse, and happiness in our front-end lives.</p>
+<!-- Excerpt -->
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="https://www.youtube.com/embed/i7mrZ_JsA8A" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<div class="iframe-wrap">
+    <iframe src="http://geelen.github.io/gifs-vs-web-components/"></iframe>
+</div>]]></description>
+            <link>http://webcomponents.org/presentations/gifs-vs-web-components-at-jsconf-eu</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/gifs-vs-web-components-at-jsconf-eu</guid>
+            <pubDate>Sun, 22 Mar 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cure for your Web Components hangover]]></title>
+            <description><![CDATA[<p>This is a talk on how to get things done today without shooting yourself in the
+foot and finding about it tomorrow. Or next month. Or you don’t, but your users
+do. Learn how to make your code more readable and expressive (without getting
+too meta), make it easy to run and maintain, and then lean back and have a cuppa
+while admiring the beauty of the thing you just have built.</p>
+<!-- Excerpt -->
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="//player.vimeo.com/video/121954532?byline=0&amp;portrait=0&amp;color=ff9933" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<div class="iframe-wrap">
+    <iframe src="http://soledadpenades.com/files/t/20150306_jquk"></iframe>
+</div>]]></description>
+            <link>http://webcomponents.org/presentations/the-cure-for-your-web-components-hangover-at-jquery-uk</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/the-cure-for-your-web-components-hangover-at-jquery-uk</guid>
+            <pubDate>Fri, 20 Mar 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating container components in Web Components and Angular]]></title>
+            <description><![CDATA[<p>Architecting your Angular application with reusable components can be complicated. Many times, UI components that need multiple entry points for user markup and the standard ng-transclude do not do enough of what is required. Using Web Component standards, like the Shadow DOM, we can now enable our applications to easily handle this.</p>
+<!-- Excerpt -->
+<p>Rachael &amp; Kara explain how to create container components today in Angular 1.3 and also give a brief glimpse into what a solution will look like in the upcoming Angular 2.0 release.</p>
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="https://www.youtube.com/embed/AbunztfV5vU" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<div class="iframe-wrap">
+    <iframe src="https://docs.google.com/presentation/embed?id=1SZ05jFRF9Rfsrn39z5-vdyLbY37XZGEgQfZ1uIOaEEo&amp;start=false&amp;loop=false&amp;"></iframe>
+</div>]]></description>
+            <link>http://webcomponents.org/presentations/creating-container-components-in-web-components-and-angular</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/creating-container-components-in-web-components-and-angular</guid>
+            <pubDate>Mon, 09 Mar 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Introduction to Web Components & Polymer]]></title>
+            <description><![CDATA[<p>Polymer web components makes it easier and faster to create anything from a
+button to a complete application across the desktop, mobile, and beyond. Web
+Components usher in a new era of web development based on encapsulated and
+interoperable custom elements that extend HTML itself. Levent Gurses, creates an
+exciting developer-focused session on developing iOS apps with Web Components
+and Google&#39;s Polymer Library.</p>
+<!-- Excerpt -->
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="//www.youtube.com/embed/1CYeDli9n1U" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<div class="iframe-wrap">
+  <iframe src="//www.slideshare.net/slideshow/embed_code/44503159"> </iframe>
+</div>]]></description>
+            <link>http://webcomponents.org/presentations/introduction-to-web-components-and-polymer-at-dc-webcomponents</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/introduction-to-web-components-and-polymer-at-dc-webcomponents</guid>
+            <pubDate>Fri, 13 Feb 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Introduction to Web Components]]></title>
+            <description><![CDATA[<p>The first meetup held at Web Components London focuses on introducing the basics
+of creating Web Components &amp; working with them in your applications. Soledad
+explores the spec, Polymer, X-Tag, and how to publish components so others in
+the community can benefit from them as well.</p>
+<!-- Excerpt -->
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="https://www.youtube.com/embed/2vWgJ7w3hu0"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<p><a href="http://soledadpenades.com/files/t/20150113_lwc/">
+    <img src="../../img/stories/an-introduction-to-web-components-at-web-components-london-cover.jpg" alt="Presentation Cover">
+</a></p>
+]]></description>
+            <link>http://webcomponents.org/presentations/an-introduction-to-web-components-at-web-components-london</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/an-introduction-to-web-components-at-web-components-london</guid>
+            <pubDate>Fri, 13 Feb 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complementarity of React and Web Components]]></title>
+            <description><![CDATA[<p>The component driven, performance focused approach of React is a perfect
+complement to the modularity and portability of native HTML Web Components.</p>
+<!-- Excerpt -->
+<p>At first glance, React and Web Components might seem like two radically
+different solutions to the same problem. But when combined properly they
+complement each other to create an extremely powerful, expressive framework
+for developing complex web applications.</p>
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="//www.youtube.com/embed/g0TD0efcwVg" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<div class="iframe-wrap">
+    <iframe src="//www.slideshare.net/slideshow/embed_code/44052293"></iframe>
+</div>]]></description>
+            <link>http://webcomponents.org/presentations/complementarity-of-react-and-web-components-at-reactjs-conf</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/complementarity-of-react-and-web-components-at-reactjs-conf</guid>
+            <pubDate>Mon, 09 Feb 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Future CSS in Web Components]]></title>
+            <description><![CDATA[<p>Web Components are set to revolutionise the way we create web pages, and a key
+role in that revolution will be played by CSS. Scoped styles and variables are
+vital to the reusability of content modules which Web Components bring, while
+more advanced proposals even allow the application of markup through style...</p>
+<!-- Excerpt -->
+<p>This talk will introduce the core features of the future web - templates, custom
+elements and Shadow DOM - with a strong emphasis on new and repurposed CSS
+properties and capabilities</p>
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="//www.youtube.com/embed/U45e-zq4bTs" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<script async class="speakerdeck-embed" data-id="d002a6d0fe8b0130332246511f7d7b12" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>]]></description>
+            <link>http://webcomponents.org/presentations/future-css-in-web-components-at-css-conf</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/future-css-in-web-components-at-css-conf</guid>
+            <pubDate>Thu, 22 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real-Time Apps with Polymer and Firebase]]></title>
+            <description><![CDATA[<p>You may have heard of Firebase, the real-time database recently acquired by Google. Did you know that it&#39;s got some fantastic integration with Web Components? Walk through the construction of a real-time app with Polymer and Firebase and see just how fast you could be building your next idea.</p>
+<!-- Excerpt -->
+<h3 id="video">Video</h3>
+<div class="iframe-wrap">
+    <iframe src="//www.youtube.com/embed/gErWcBdd-F8" itemprop="video"></iframe>
+</div>
+
+<h3 id="slides">Slides</h3>
+<div class="iframe-wrap">
+    <iframe src="//decks.mbleigh.com/polymer-and-firebase#/"></iframe>
+</div>]]></description>
+            <link>http://webcomponents.org/presentations/real-time-apps-with-polymer-and-firebase</link>
+            <guid isPermaLink="true">http://webcomponents.org/presentations/real-time-apps-with-polymer-and-firebase</guid>
+            <pubDate>Tue, 13 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
